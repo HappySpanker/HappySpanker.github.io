@@ -4,16 +4,15 @@ lorem ipsum dolor sit amet
 
 ## Bots
 
-Here is a table of all my currently available bots:
+The vast majority of my bots are separated out by world/setting and listed there. Here is a list of bots not assigned to a world:
 
 | Name         | World    | Short description                 |
 |:-------------|:---------|:----------------------------------|
-| Alina Anford | Girandia | GILF catgirl, part of the Anfords |
-| Yula Anford  | Girandia | MILF catgirl, part of the Anfords |
 
 ## Lorebooks
 
-Grid with pictures + links + detailed info
+| Name         | World    | Short description                 |
+|:-------------|:---------|:----------------------------------|
 
 ## Worlds
 
@@ -21,7 +20,7 @@ Here is a list of all my worlds and settings and the content therein; bots and l
 
 ### [Girandia](/Girandia)
 
-The largest world for mostly slife-of-life bots.
+The largest world for mostly slife-of-life bots. An urban fantasy comparable to contemporary earth. Includes elves, kemonomimi, spiritual/mystical beings and magic.
 
 ### [Zaveram](/Zaveram)
 
