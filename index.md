@@ -4,7 +4,12 @@ lorem ipsum dolor sit amet
 
 ## Bots
 
-Grid with pictures + links + detailed info
+Here is a table of all my currently available bots:
+
+| Name         | World    | Short description                 |
+|:-------------|:---------|:----------------------------------|
+| Alina Anford | Girandia | GILF catgirl, part of the Anfords |
+| Yula Anford  | Girandia | MILF catgirl, part of the Anfords |
 
 ## Lorebooks
 
@@ -22,7 +27,7 @@ The largest world for mostly slife-of-life bots.
 
 Originally a world part of a collab between Yæthi and myself. Will still try to goad her into a collab in this world from time to time.
 
-### [Grand Republic[(/GrandRepublic)
+### [Grand Republic](/GrandRepublic)
 
 Spices in space! Basically a fever dream about what would happen if the Dutch Republic made it to space.
 
