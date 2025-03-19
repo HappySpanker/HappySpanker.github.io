@@ -1,3 +1,9 @@
+---
+    chars:
+        - name: Lexa Anford
+          age: 26
+          description: geeky catto
+---
 <table>
     <thead>
         <tr>
@@ -7,7 +13,7 @@
         </tr>
     </thead>
     <tbody>
-{% for char in include.characters %}
+{% for char in page.chars %}
         <tr>
             <td>{{ char.name }}</td>
             <td>Links</td>
