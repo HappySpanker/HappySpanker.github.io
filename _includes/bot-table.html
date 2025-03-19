@@ -1,0 +1,18 @@
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Links</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+{% for bot in bots %}
+        <tr>
+            <td>{{ bot.name }}</td>
+            <td>Links xxx</td>
+            <td>{{ bot.description }}</td>
+        </tr>
+{% endfor %}
+    </tbody>
+</table>

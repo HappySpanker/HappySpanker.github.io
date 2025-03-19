@@ -25,24 +25,7 @@
 
     <div class="col-6 col-md-12">
         <h3>Anfords</h3>
-        <table>
-            <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Links</th>
-                    <th>Description</th>
-                </tr>
-            </thead>
-            <tbody>
-{% for char in _anfords %}
-                <tr>
-                    <td>{{ char.name }}</td>
-                    <td>Links</td>
-                    <td>{{ char.description }}</td>
-                </tr>
-{% endfor %}
-            </tbody>
-        </table>
+{% include bot.table.html bots = site.data.bots.girandia.anfords %}
     </div>
 </section>
 
