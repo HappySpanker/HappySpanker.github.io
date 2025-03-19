@@ -1,3 +1,7 @@
+layout: null
+
+---
+
 # Welcome
 
 lorem ipsum dolor sit amet
