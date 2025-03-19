@@ -1,0 +1,18 @@
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Links</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+{% for char in include.characters %}
+        <tr>
+            <td>{{ char.name }}</td>
+            <td>Links</td>
+            <td>{{ char.description }}</td>
+        </tr>
+{% endfor %}
+    </tbody>
+</table>
