@@ -8,6 +8,8 @@
 
 ---
 
+{% assign _anfords = page.anfords %}
+
 <div class="row">
     <div class="col">
         <h1>Girandia</h1>
@@ -32,7 +34,7 @@
                 </tr>
             </thead>
             <tbody>
-{% for char in page.anfords %}
+{% for char in _anfords %}
                 <tr>
                     <td>{{ char.name }}</td>
                     <td>Links</td>
@@ -43,6 +45,9 @@
         </table>
     </div>
 </section>
+
+
+{% include test.html data=page.anfords %}
 
 ### Anford
 
