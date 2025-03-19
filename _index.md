@@ -1,5 +1,3 @@
-# OLD OLD OLD
-
 # Welcome
 
 lorem ipsum dolor sit amet
@@ -10,6 +8,11 @@ The vast majority of my bots are separated out by world/setting and listed there
 
 | Name         | World    | Short description                 |
 |:-------------|:---------|:----------------------------------|
+| hello | world | foo |
+| hello | world | foo |
+| hello | world | foo |
+| hello | world | foo |
+| hello | world | foo |
 
 ## Lorebooks
 

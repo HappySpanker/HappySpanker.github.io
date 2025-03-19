@@ -1,1 +1,2 @@
-# Empty
+exclude:
+  - README.md
