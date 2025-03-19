@@ -4,20 +4,31 @@ lorem ipsum dolor sit amet
 
 ## Bots
 
-The vast majority of my bots are separated out by world/setting and listed there. Here is a list of bots not assigned to a world:
+The vast majority of my bots are separated out by world/setting and listed there. Here is a list of bots not assigned to a world or to an external world such as Islaport:
 
 | Name         | World    | Short description                 |
 |:-------------|:---------|:----------------------------------|
-| hello | world | foo |
-| hello | world | foo |
-| hello | world | foo |
-| hello | world | foo |
-| hello | world | foo |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
+| hello        | world    | foo                               |
 
-## Lorebooks
-
-| Name         | World    | Short description                 |
-|:-------------|:---------|:----------------------------------|
 
 ## Worlds
 
